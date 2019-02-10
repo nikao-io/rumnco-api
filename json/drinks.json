@@ -303,7 +303,7 @@
     "ingredientQuantity": [
       "2 fl oz",
       "4 fl oz",
-      "1 Lemon",
+      "1 Lemon"
     ],
     "garnish": "Mint, Apple Slices, Cinnamon Stick",
     "glass": "Tall Glass",
@@ -331,7 +331,7 @@
       "1.5 fl oz",
       "1.5 fl oz",
       "1",
-      "2 Dashes",
+      "2 Dashes"
     ],
     "garnish": "Apple Slices, Cinnamon Stick",
     "glass": "Rocks Glass",
@@ -897,7 +897,7 @@
       "Vodka",
       "Sweet",
       "Shaken",
-      "Straight Up",
+      "Straight Up"
     ]
   },
   {
@@ -3056,7 +3056,7 @@
       "1/2 fl oz",
       "1 tsp",
       "1 fl oz",
-      "1 fl oz",
+      "1 fl oz"
     ],
     "garinsh": "Orange Twist",
     "glass": "Rocks Glass",
@@ -3177,7 +3177,7 @@
     "ingredientQuantity": [
       "2 fl oz",
       "1 fl oz",
-      "1 1/2 fl oz",
+      "1 1/2 fl oz"
     ],
     "garnish": "Cinnamon Stick",
     "glass": "Rocks Glass",
@@ -3479,7 +3479,7 @@
     "categories": [
       "Vodka",
       "Fruity",
-      "Rocks",
+      "Rocks"
     ]
   },
   {
@@ -3715,7 +3715,7 @@
       "3/4 fl oz",
       "2",
       "1",
-      "1 1/2 fl oz",
+      "1 1/2 fl oz"
     ],
     "garnish": "Rose Petal",
     "glass": "Collins Glass",
@@ -3831,7 +3831,9 @@
       "Sweet",
       "Shaken",
       "Straight Up"
-    ],
+    ]
+  },
+  {
     "id": "toasted-almond",
     "name": "Toasted Almond",
     "url": "toasted-almond.html",
