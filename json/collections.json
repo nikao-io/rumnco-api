@@ -1,0 +1,107 @@
+{
+  "collections": [
+    {
+      "id": "beach-vibes",
+      "name": "Beach Vibes",
+      "image": "beach-vibes.png",
+      "featured": false,
+      "description": "Soak up the sun and sip on one of these refreshing cocktails.",
+      "drinks": [
+        "bay-breeze",
+        "blue-hawaiian",
+        "electric-lemonade",
+        "hurricane",
+        "long-island-iced-tea",
+        "mai-tai",
+        "sea-breeze",
+        "sex-on-the-beach"
+      ]
+    },
+    {
+      "id": "tough-days",
+      "name": "Tough Days",
+      "image": "tough-days.jpg",
+      "featured": false,
+      "description": "Having a tough day pick any of these cocktails and relax.",
+      "drinks": [
+        "adios",
+        "brandy-alexander",
+        "manhattan",
+        "metropolitian",
+        "mind-eraser",
+        "negroni",
+        "old-fashioned",
+        "red-headed-slut"
+      ]
+    },
+    {
+      "id": "after-the-feast",
+      "name": "After The Feast",
+      "image": "after-the-feast.jpg",
+      "featured": false,
+      "description": "After you're too full to move around, sit and enjoy one of these delicous cocktails.",
+      "drinks": [
+        "the-northern-spy",
+        "pumpkin-spice-white-russian",
+        "apple-cider-mojito",
+        "apple-cider-old-fashioned",
+        "ginger-smash",
+        "pumpkin-pie-martini",
+        "caramel-apple-martini"
+      ]
+    },
+    {
+      "id": "pumpkin-delight",
+      "name": "Pumpkin Delight",
+      "image": "pumpkin-delight.jpg",
+      "featured": false,
+      "description": "Try one of these Pumpkin inspired cocktails",
+      "drinks": [
+        "pumpkin-old-fashioned",
+        "pumpkin-spice-white-russian",
+        "pumpkin-spice",
+        "pumpkin-fever",
+        "pumpkin-caipirinha",
+        "pumpkin-pie-martini",
+        "pumpkin-spice-margarita"
+      ]
+    },
+    {
+      "id": "sour-drinks",
+      "name": "Sour Drinks",
+      "image": "sour-drinks.jpg",
+      "featured": true,
+      "description": "These sour cocktails have the perfect combination of sour and sweet.",
+      "drinks": [
+        "amaretto-sour",
+        "midori-sour",
+        "new-york-sour",
+        "tom-collins",
+        "mike-collins",
+        "lynchberg-lemonade",
+        "moscow-mule",
+        "whiskey-sour",
+        "singapore-sling",
+        "margarita",
+        "electric-lemonade"
+      ]
+    },
+    {
+      "id": "champagne-cocktails",
+      "name": "Champagne Cocktails",
+      "image": "champagne-cocktails.jpg",
+      "featured": true,
+      "description": "Celebrate some special occasions with these champagne cocktails.",
+      "drinks": [
+        "french-75",
+        "kir-royale",
+        "blackberry-ombre-sparkler",
+        "bellini",
+        "champagne-margarita",
+        "turquoise-sip",
+        "grapefruit-and-rosemary-mimosa",
+        "mimosa"
+      ]
+    },
+  ]
+}
