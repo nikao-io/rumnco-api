@@ -2834,7 +2834,7 @@
       "id": "new-york-sour",
       "name": "New York Sour",
       "url": "new-york-sour.html",
-      "image": "placeholder-drink-image.png",
+      "image": "new-york-sour.jpg",
       "time": "3 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -2889,7 +2889,7 @@
       "id": "nutty-irishman",
       "name": "Nutty Irishman",
       "url": "nutty-irishman.html",
-      "image": "placeholder-drink-image.png",
+      "image": "nutty-irishman.jpg",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -3617,7 +3617,7 @@
       "id": "sex-on-the-beach",
       "name": "Sex on the Beach",
       "url": "sex-on-the-beach.html",
-      "image": "placeholder-drink-image.png",
+      "image": "sex-on-the-beach.jpg",
       "time": "3 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -4007,7 +4007,7 @@
       "id": "tom-collins",
       "name": "Tom Collins",
       "url": "tom-collins.html",
-      "image": "placeholder-drink-image.png",
+      "image": "tom-collins.jpg",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
