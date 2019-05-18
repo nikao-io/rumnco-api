@@ -31,39 +31,8 @@
         "mind-eraser",
         "negroni",
         "old-fashioned",
-        "red-headed-slut"
-      ]
-    },
-    {
-      "id": "after-the-feast",
-      "name": "After The Feast",
-      "image": "after-the-feast.jpg",
-      "featured": false,
-      "description": "After you're too full to move around, sit and enjoy one of these delicous cocktails.",
-      "drinks": [
-        "the-northern-spy",
-        "pumpkin-spice-white-russian",
-        "apple-cider-mojito",
-        "apple-cider-old-fashioned",
-        "ginger-smash",
-        "pumpkin-pie-martini",
-        "caramel-apple-martini"
-      ]
-    },
-    {
-      "id": "pumpkin-delight",
-      "name": "Pumpkin Delight",
-      "image": "pumpkin-delight.jpg",
-      "featured": false,
-      "description": "Try one of these Pumpkin inspired cocktails",
-      "drinks": [
-        "pumpkin-old-fashioned",
-        "pumpkin-spice-white-russian",
-        "pumpkin-spice",
-        "pumpkin-fever",
-        "pumpkin-caipirinha",
-        "pumpkin-pie-martini",
-        "pumpkin-spice-margarita"
+        "red-headed-slut",
+        "vieux-carre"
       ]
     },
     {
@@ -392,60 +361,6 @@
         "Sour",
         "Rocks",
         "Low Alcohol"
-      ]
-    },
-    {
-      "id": "apple-cider-mojito",
-      "name": "Apple Cider Mojito",
-      "url": "apple-cider-mojito.html",
-      "image": "placeholder-drink-image.png",
-      "time": "1 minutes",
-      "difficulty": "Easy",
-      "ingredientName": [
-        "Rum",
-        "Apple Cider",
-        "Lemon Juice"
-      ],
-      "ingredientQuantity": [
-        "2 fl oz",
-        "4 fl oz",
-        "1 Lemon"
-      ],
-      "garnish": "Mint, Apple Slices, Cinnamon Stick",
-      "glass": "Tall Glass",
-      "preparation": "Add ice to glass. Combine Rum with the Apple cider and lemon juice. Garnish with Mint and Apple Slice on rim along with a Cinnamon Stick.",
-      "categories": [
-        "Rum",
-        "Sweet",
-        "Tall"
-      ]
-    },
-    {
-      "id": "apple-cider-old-fashioned",
-      "name": "Apple Cider Old Fashioned",
-      "url": "apple-cider-old-fashioned.html",
-      "image": "placeholder-drink-image.png",
-      "time": "2 minutes",
-      "difficulty": "Intermediate",
-      "ingredientName": [
-        "Whiskey",
-        "Apple Cider",
-        "Sugar Cube",
-        "Angostura Bitters"
-      ],
-      "ingredientQuantity": [
-        "1.5 fl oz",
-        "1.5 fl oz",
-        "1",
-        "2 Dashes"
-      ],
-      "garnish": "Apple Slices, Cinnamon Stick",
-      "glass": "Rocks Glass",
-      "preparation": "Combine whiskey, apple cider, sugar cube, and bitters. Stir with a Cinnamon Stick, garnish with Apple Slice on rim and serve.",
-      "categories": [
-        "Whiskey",
-        "Savory",
-        "Rocks"
       ]
     },
     {
@@ -980,33 +895,6 @@
       ]
     },
     {
-      "id": "caramel-apple-martini",
-      "name": "Caramel Apple Martini",
-      "url": "caramel-apple-martini.html",
-      "image": "placeholder-drink-image.png",
-      "time": "3 minutes",
-      "difficulty": "Intermediate",
-      "ingredientName": [
-        "Caramel Vodka",
-        "Apple Cider",
-        "Butterscotch Schnapps"
-      ],
-      "ingredientQuantity": [
-        "2 fl oz",
-        "2 fl oz",
-        "1 fl oz"
-      ],
-      "garnish": "Cinnamon Sugar",
-      "glass": "Martini Glass",
-      "preparation": "Add ice to shaker. Combine Carmel Vodka, Apple Cider, and Butterscotch Schnapps. Shake and strain into glass rimmed with cinnamon sugar and serve.",
-      "categories": [
-        "Vodka",
-        "Sweet",
-        "Shaken",
-        "Straight Up"
-      ]
-    },
-    {
       "id": "catus-cooler",
       "name": "Catus Cooler",
       "url": "catus-cooler.html",
@@ -1410,8 +1298,8 @@
     {
       "id": "gimlet-vodka",
       "name": "Gimlet (Vodka)",
-      "url": "https://ucarecdn.com/32b832da-544e-49dc-8bba-9801d662765f/",
-      "image": "gimlet.jpg",
+      "url": "gimlet-vodka.html",
+      "image": "https://ucarecdn.com/32b832da-544e-49dc-8bba-9801d662765f/",
       "time": "3 minutes",
       "difficulty": "Novice",
       "ingredientName": [
@@ -1483,39 +1371,6 @@
         "Gin",
         "Refreshing",
         "Fizzy",
-        "Rocks"
-      ]
-    },
-    {
-      "id": "ginger-smash",
-      "name": "Ginger Smash",
-      "url": "ginger-smash.html",
-      "image": "placeholder-drink-image.png",
-      "time": "2 minutes",
-      "difficulty": "Intermediate",
-      "ingredientName": [
-        "Gin",
-        "Apple Cider",
-        "Sugar",
-        "Lemon Juice",
-        "Cranberries",
-        "Ginger"
-      ],
-      "ingredientQuantity": [
-        "1 1/2 fl oz",
-        "1 1/2 fl oz",
-        "2 tsp",
-        "3/4 fl oz",
-        "9",
-        "2 Slices"
-      ],
-      "garinsh": "Grated Cinnamon",
-      "glass": "Rocks Glass",
-      "preparation": "In a shaker, muddle the ginger, cranberries and sugar. Add the Gin, Apple Cider, and Lemon Juice and enough ice to fill a rocks glass. Quickly shake and pour into glass. Garnish with grated cinnamon.",
-      "categories": [
-        "Gin",
-        "Fruity",
-        "Spicy",
         "Rocks"
       ]
     },
@@ -3085,217 +2940,6 @@
       ]
     },
     {
-      "id": "pumpkin-caipirinha",
-      "name": "Pumpkin Caipirinha",
-      "url": "pumpkin-caipirinha.html",
-      "image": "placeholder-drink-image.png",
-      "time": "2 minutes",
-      "difficulty": "Intermediate",
-      "ingredientName": [
-        "Cachaca Rum",
-        "Agave Nectar",
-        "Pumpkin Puree",
-        "Grated Ginger",
-        "Lime Wedges"
-      ],
-      "ingredientQuantity": [
-        "1 1/2 fl oz",
-        "1/2 fl oz",
-        "1 1/2 fl oz",
-        "1 tsp",
-        "Half lime cut into 4"
-      ],
-      "garinsh": "Lime wedge",
-      "glass": "Rocks Glass",
-      "preparation": "Muddle the lime, agave nectar, and fresh ginger in the bottom of a cocktail shaker. Add Cachaca, Pumpkin puree, and ice. Shake until thoroughly mixed and chilled. Strain into a glass filled with ice, and garnish with grated nutmeg and a lime wheel.",
-      "categories": [
-        "Rum",
-        "Sweet and Sour",
-        "Rocks"
-      ]
-    },
-    {
-      "id": "pumpkin-fever",
-      "name": "Pumpkin Fever",
-      "url": "pumpkin-fever.html",
-      "image": "placeholder-drink-image.png",
-      "time": "2 minutes",
-      "difficulty": "Intermediate",
-      "ingredientName": [
-        "Pumpkin Liqueur",
-        "Spiced Rum",
-        "Cream",
-        "Milk"
-      ],
-      "ingredientQuantity": [
-        "2 fl oz",
-        "1 fl oz",
-        "1/4 fl oz",
-        "1/4 fl oz"
-      ],
-      "garinsh": "Sugar Rim",
-      "glass": "Martini Glass",
-      "preparation": "Combine Pumpkin Liqueur, Rum, Milk, and Cream into a shaker filled with ice. Shake well and strain into a chilled Martini glass. Sprinkle ground Cinnamon and serve.",
-      "categories": [
-        "Rum",
-        "Creamy",
-        "Shaken",
-        "Straight up"
-      ]
-    },
-    {
-      "id": "pumpkin-spice-margarita",
-      "name": "Pumpkin Spice Margarita",
-      "url": "pumpkin-spice-margarita.html",
-      "image": "placeholder-drink-image.png",
-      "time": "3 minutes",
-      "difficulty": "Intermediate",
-      "ingredientName": [
-        "Tequila",
-        "Cointreau",
-        "Pumpkin Puree",
-        "Lime Juice",
-        "Lemon Juice"
-      ],
-      "ingredientQuantity": [
-        "2 fl oz",
-        "1/2 fl oz",
-        "1 tsp",
-        "1 fl oz",
-        "1 fl oz"
-      ],
-      "garinsh": "Orange Twist",
-      "glass": "Rocks Glass",
-      "preparation": "Add ice to a martini shaker. Shake ingredients and strain into a chilled cocktail glass over ice. Garnish with an orange twist and add a pinch of cinnamon and serve.",
-      "categories": [
-        "Tequila",
-        "Sweet and Sour",
-        "Savory",
-        "Rocks",
-        "Sharp"
-      ]
-    },
-    {
-      "id": "pumpkin-old-fashioned",
-      "name": "Pumpkin Old Fashioned",
-      "url": "pumpkin-old-fashioned.html",
-      "image": "placeholder-drink-image.png",
-      "time": "2 minutes",
-      "difficulty": "Intermediate",
-      "ingredientName": [
-        "Bourbon",
-        "Grand Marnier",
-        "Pumpkin Puree",
-        "Maple Syrup",
-        "Bitters"
-      ],
-      "ingredientQuantity": [
-        "1 1/2 fl oz",
-        "1/2 fl oz",
-        "2 tbsp",
-        "1 fl oz",
-        "2 Dashes"
-      ],
-      "garinsh": "Orange Peel",
-      "glass": "Rocks Glass",
-      "preparation": "Combine pumpkin puree, bourbon, syrup, Grand Marnier and bitters in a cocktail shaker filled with ice. Shake well and strain through a fine strainer into a chilled old-fashioned glass filled with fresh ice. Garnish with orange peel and serve.",
-      "categories": [
-        "Burbon",
-        "Savory",
-        "Sweet",
-        "Rocks"
-      ]
-    },
-    {
-      "id": "pumpkin-pie-martini",
-      "name": "Pumpkin Pie Martini",
-      "url": "pumpkin-pie-martini.html",
-      "image": "placeholder-drink-image.png",
-      "time": "2 minutes",
-      "difficulty": "Intermediate",
-      "ingredientName": [
-        "Vanilla Vodka",
-        "Pumpkin Spice Liqueur",
-        "Kahula",
-        "Butterscotch Schnapps",
-        "Half and Half"
-      ],
-      "ingredientQuantity": [
-        "1 fl oz",
-        "1 fl oz",
-        "1/2 fl oz",
-        "1/2 fl oz",
-        "1/2 fl oz"
-      ],
-      "garinsh": "Crushed Graham Crackers, Cinnamon Stick",
-      "glass": "Martini Glass",
-      "preparation": "Add ice to a shaker. Combine all ingredients then Shake and strain into large martini glass rimmed with crushed graham crackers. Garnish with a cinnamon stick.",
-      "categories": [
-        "Vodka",
-        "Creamy",
-        "Shaken",
-        "Straight Up"
-      ]
-    },
-    {
-      "id": "pumpkin-spice",
-      "name": "Pumpkin Spice",
-      "url": "pumpkin-spice.html",
-      "image": "placeholder-drink-image.png",
-      "time": "1 minutes",
-      "difficulty": "Easy",
-      "ingredientName": [
-        "Ginger Vodka",
-        "Lime Juice",
-        "Pumpkin Puree",
-        "Honey Water"
-      ],
-      "ingredientQuantity": [
-        "2 fl oz",
-        "1/2 fl oz",
-        "1 fl oz",
-        "Splash of"
-      ],
-      "garinsh": "Slice of Ginger",
-      "glass": "Tall Glass",
-      "preparation": "Combine pumpkin puree, Vodka, Lime Juice, and Honey Water(equal parts honey and water) in a cocktail shaker filled with ice. Shake well and strain into Tall glass with fresh ice. Garnish with a long slice of ginger and serve.",
-      "categories": [
-        "Vodka",
-        "Spicy",
-        "Shaken",
-        "Straight up"
-      ]
-    },
-    {
-      "id": "pumpkin-spice-white-russian",
-      "name": "Pumpkin Spice White Russian",
-      "url": "pumpkin-spice-white-russian.html",
-      "image": "placeholder-drink-image.png",
-      "time": "2 minutes",
-      "difficulty": "Intermediate",
-      "ingredientName": [
-        "Vodka",
-        "Kahlua",
-        "Pumpkin Spice Creamer",
-        "Pumpkin Pie Spice",
-        "Crushed Graham Crackers"
-      ],
-      "ingredientQuantity": [
-        "2 fl oz",
-        "1 fl oz",
-        "1 1/2 fl oz"
-      ],
-      "garnish": "Cinnamon Stick",
-      "glass": "Rocks Glass",
-      "preparation": "For the Rim:On a shallow plate, combine pumpkin pie spice and crushed graham crackers. Dip the edge of each glass in water, then into the mixture, coating the edge of each glass. Combine Vodka and Kahlua into a glass filled with ice. Top with the Pumpkin Spice Creamer. Garnish with a cinnamon stick and a sprinkle of pumpkin pie spice.",
-      "categories": [
-        "Vodka",
-        "Sweet",
-        "Dessert",
-        "Rocks"
-      ]
-    },
-    {
       "id": "purple-hooter",
       "name": "Purple Hooter",
       "url": "purple-hooter.html",
@@ -3931,7 +3575,7 @@
         "1/4 fl oz"
       ],
       "glass": "Coupe Glass",
-      "preparation": "Add all the ingredients to a shaker and fill with ice.Shake, and strain into a small cocktail glass or coupe.Top with cava ",
+      "preparation": "Add all the ingredients to a shaker and fill with ice. Shake, and strain into a small cocktail glass or coupe.Top with cava ",
       "categories": [
         "AppleJack",
         "Sweet",
