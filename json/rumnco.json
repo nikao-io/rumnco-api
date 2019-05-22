@@ -4,7 +4,6 @@
       "id": "beach-vibes",
       "name": "Beach Vibes",
       "image": "beach-vibes.png",
-      "featured": false,
       "description": "Soak up the sun and sip on one of these refreshing cocktails.",
       "drinks": [
         "bay-breeze",
@@ -21,7 +20,6 @@
       "id": "tough-days",
       "name": "Tough Days",
       "image": "tough-days.jpg",
-      "featured": false,
       "description": "Having a tough day pick any of these cocktails and relax.",
       "drinks": [
         "adios",
@@ -39,7 +37,6 @@
       "id": "sour-drinks",
       "name": "Sour Drinks",
       "image": "sour-drinks.jpg",
-      "featured": true,
       "description": "These sour cocktails have the perfect combination of sour and sweet.",
       "drinks": [
         "amaretto-sour",
@@ -59,7 +56,6 @@
       "id": "champagne-cocktails",
       "name": "Champagne Cocktails",
       "image": "champagne-cocktails.jpg",
-      "featured": true,
       "description": "Celebrate some special occasions with these champagne cocktails.",
       "drinks": [
         "french-75",
@@ -1002,33 +998,6 @@
       ]
     },
     {
-      "id": "cool-aid",
-      "name": "Cool Aid",
-      "url": "cool-aid.html",
-      "image": "placeholder-drink-image.png",
-      "time": "2 minutes",
-      "difficulty": "Easy",
-      "ingredientName": [
-        "Vodka",
-        "Melon Liqueur or Peach Schnapps",
-        "Amaretto",
-        "Cranberry Juice"
-      ],
-      "ingredientQuantity": [
-        "3/4 fl oz",
-        "3/4 fl oz",
-        "3/4 fl oz",
-        "Fill Glass"
-      ],
-      "glass": "Tall Glass",
-      "preparation": "Add ice to glass. Combine Vodka, Melon Liqueur, Amaretto, and Cranberry Juice then shake and serve.",
-      "categories": [
-        "Vodka",
-        "Fruity",
-        "Tall"
-      ]
-    },
-    {
       "id": "corkscrew",
       "name": "Corkscrew",
       "url": "corkscrew.html",
@@ -1046,7 +1015,8 @@
         "1/2 fl oz"
       ],
       "glass": "Martini Glass",
-      "preparation": "Add ice to Shaker. Combine Rum, Peach Schnapps, and Dry Vermouth. Shake and strain into chilled glass and serve.",
+      "garnish": "Lime Wheel",
+      "preparation": "Add ice to Shaker. Combine Rum, Peach Schnapps, and Dry Vermouth. Shake and strain into chilled glass, garnish, and serve.",
       "categories": [
         "Rum",
         "Fruity",
@@ -1847,26 +1817,30 @@
       ]
     },
     {
-      "id": "kool-aide",
-      "name": "Kool Aide",
-      "url": "kool-aide.html",
-      "image": "placeholder-drink-image.png",
-      "time": "2 minutes",
+      "id": "koolaide",
+      "name": "Koolaide",
+      "url": "koolaide.html",
+      "image": "",
+      "time": "4 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
         "Vodka",
-        "Amaretto",
-        "Midori",
-        "Cranberry Juice"
+        "Cranberry Juice",
+        "Lime Juice",
+        "Orange Juice",
+        "Amarretto",
+        "Melon Liqueur"
       ],
       "ingredientQuantity": [
-        "1 1/4 fl oz",
-        "1/4 fl oz",
-        "1/4 fl oz",
-        "1/4 fl oz"
+        "1 fl oz",
+        "1 fl oz",
+        "1 fl oz",
+        "1 fl oz",
+        "1/2 fl oz",
+        "1/2 fl oz"
       ],
-      "glass": "Shot Glass",
-      "preparation": "Add ice to shaker. Combine Vodka, Amaretto, Midori and Cranberry juice. Shake and strain into shot glass and serve.",
+      "glass": "Tall Glass",
+      "preparation": "Add ice to shaker. Combine all ingredients and shake vigorously for 1 minute. Shake and strain into tall glass and serve.",
       "categories": [
         "Vodka",
         "Fruity",
@@ -1878,7 +1852,7 @@
       "id": "lsd",
       "name": "L.S.D.",
       "url": "lsd.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "",
       "difficulty": "",
       "ingredientName": [
@@ -1904,7 +1878,7 @@
       "id": "leap-frog",
       "name": "Leap Frog",
       "url": "leap-frog.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -1931,7 +1905,7 @@
       "id": "left-hook",
       "name": "Left Hook",
       "url": "left-hook.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "1 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -1955,7 +1929,7 @@
       "id": "lemon-drop-martini",
       "name": "Lemon Drop Martini",
       "url": "lemon-drop-martini.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "5 minutes",
       "difficulty": "Expert",
       "ingredientName": [
@@ -1982,7 +1956,7 @@
       "id": "liquid-cocaine",
       "name": "Liquid Cocaine",
       "url": "liquid-cocaine.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2085,7 +2059,7 @@
       "id": "lynchburg-lemonade",
       "name": "Lynchburg Lemonade",
       "url": "lynchburg-lemonade.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2114,7 +2088,7 @@
       "id": "madras",
       "name": "Madras",
       "url": "madras.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2140,7 +2114,7 @@
       "id": "mai-tai",
       "name": "Mai Tai",
       "url": "mai-tai.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "3 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -2290,7 +2264,7 @@
       "id": "melon-balls",
       "name": "Melon Balls",
       "url": "melon-balls.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2316,7 +2290,7 @@
       "id": "melon-hopper",
       "name": "Melon Hopper",
       "url": "melon-hopper.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2342,7 +2316,7 @@
       "id": "metropolitan",
       "name": "Metropolitan",
       "url": "metropolitan.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "5 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -2372,7 +2346,7 @@
       "id": "mexican-coffee",
       "name": "Mexican Coffee",
       "url": "mexican-coffee.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2397,7 +2371,7 @@
       "id": "midori-sour",
       "name": "Midori Sour",
       "url": "midori-sour.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "1 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2421,7 +2395,7 @@
       "id": "mike-collins",
       "name": "Mike Collins",
       "url": "mike-collins.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2471,7 +2445,7 @@
       "id": "mind-eraser",
       "name": "Mind Eraser",
       "url": "mind-eraser.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2497,7 +2471,7 @@
       "id": "mint-julep",
       "name": "Mint Julep",
       "url": "mint-julep.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "5 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -2585,7 +2559,7 @@
       "id": "mudslides",
       "name": "Mudslides",
       "url": "mudslides.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "5 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2611,7 +2585,7 @@
       "id": "muscle-beach",
       "name": "Muscle Beach",
       "url": "muscle-beach.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "1 minute",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2636,7 +2610,7 @@
       "id": "negroni",
       "name": "Negroni",
       "url": "negroni.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2662,7 +2636,7 @@
       "id": "new-york-slammer",
       "name": "New York Slammer",
       "url": "new-york-slammer.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "1 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2716,7 +2690,7 @@
       "id": "nuts-and-berries",
       "name": "Nuts & Berries",
       "url": "nuts-and-berries.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2770,7 +2744,7 @@
       "id": "oatmeal-cookie",
       "name": "Oatmeal Cookie",
       "url": "oatmeal-cookie.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "3 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2825,7 +2799,7 @@
       "id": "orgasm",
       "name": "Orgasm",
       "url": "orgasm.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2855,7 +2829,7 @@
       "id": "panty-dropper",
       "name": "Panty Dropper",
       "url": "panty-dropper.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "1 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2883,7 +2857,7 @@
       "id": "peanut-butter-and-jelly",
       "name": "Peanut Butter and Jelly",
       "url": "peanut-butter-and-jelly.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "3 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2912,7 +2886,7 @@
       "id": "pink-lady",
       "name": "Pink Lady",
       "url": "pink-lady.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2943,7 +2917,7 @@
       "id": "purple-hooter",
       "name": "Purple Hooter",
       "url": "purple-hooter.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "3 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2969,7 +2943,7 @@
       "id": "raspberry-kamikazes",
       "name": "Raspberry Kamikazes",
       "url": "raspberry-kamikazes.html",
-      "image": "placeholder-drink-image.png",
+      "image": "",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -4099,7 +4073,7 @@
         "Ginger Beer"
       ],
       "ingredientQuantity": [
-        "2 fl oz",
+        "1.5 fl oz",
         "1 fl oz",
         "Fill"
       ],
@@ -4168,6 +4142,58 @@
         "Gin",
         "Bitter",
         "Sharp"
+      ]
+    },
+    {
+      "id": "kentucky-mule",
+      "name": "Kentucky Mule",
+      "url": "kentucky-mule.html",
+      "image": "",
+      "time": "4 minutes",
+      "difficulty": "Easy",
+      "ingredientName": [
+        "Bourbon",
+        "Fresh Lime Juice",
+        "Ginger Beer"
+      ],
+      "ingredientQuantity": [
+        "2 fl oz",
+        ".5 fl oz",
+        "Fill"
+      ],
+      "garnish": "Lime & Mint Sprig",
+      "glass": "Copper Mug",
+      "preparation": "Fill copper mug or highball glass with ice. Combine bourbon and lime juice. Top off with ginger beer and granish with mint sprigs and line wedge.",
+      "categories": [
+        "bourbon",
+        "spirit forward",
+        "sharp"
+      ]
+    },
+    {
+      "id": "dark-n-stormy",
+      "name": "Dark 'N Stormy",
+      "url": "dark-n-stormy.html",
+      "image": "",
+      "time": "4 minutes",
+      "difficulty": "Easy",
+      "ingredientName": [
+        "Dark Rum",
+        "Fresh Lime Juice",
+        "Ginger Beer"
+      ],
+      "ingredientQuantity": [
+        "1.5 fl oz",
+        ".5 fl oz",
+        "Fill"
+      ],
+      "garnish": "Lime Wedge",
+      "glass": "Copper Mug",
+      "preparation": "Fill copper mug or highball glass with ice. Combine dark rum and lime juice. Top off with ginger beer and granish with line wedge.",
+      "categories": [
+        "rum",
+        "sweet",
+        "bubbly"
       ]
     }
   ]
