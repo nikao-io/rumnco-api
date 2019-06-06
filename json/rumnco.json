@@ -2484,9 +2484,9 @@
       "ingredientQuantity": [
         "1 1/2 fl oz",
         "4 to 6 Leaves",
-        "Splash of",
-        "Fill Glass",
-        "1 Tsp."
+        "1/2 fl oz",
+        "Splash",
+        "1/4 fl oz"
       ],
       "garnish": "Lime Wedge",
       "glass": "Tall Glass",
@@ -3906,7 +3906,7 @@
       ],
       "ingredientQuantity": [
         "Fill",
-        ".75 fl oz",
+        "3/4 fl oz",
         "3"
       ],
       "glass": "Champagne Flute",
@@ -3931,7 +3931,7 @@
       ],
       "ingredientQuantity": [
         "Fill",
-        "1.5 fl oz"
+        "1 1/2 fl oz"
       ],
       "glass": "Champagne Flute",
       "garnish": "Peach Slices",
@@ -3957,7 +3957,7 @@
       ],
       "ingredientQuantity": [
         "1 fl oz",
-        ".5 fl oz",
+        "1/2 fl oz",
         "Fill"
       ],
       "glass": "Champagne Flute",
@@ -3986,7 +3986,7 @@
       ],
       "ingredientQuantity": [
         "1 fl oz",
-        ".5 fl oz",
+        "1/2 fl oz",
         "Fill",
         "3 Sprigs"
       ],
@@ -4016,10 +4016,10 @@
         "Brut"
       ],
       "ingredientQuantity": [
-        ".5 fl oz",
+        "1/2 fl oz",
         "2 fl oz",
         "1 fl oz",
-        ".5 fl oz",
+        "1/2 fl oz",
         "Fill"
       ],
       "glass": "Champagne Flute",
@@ -4047,9 +4047,9 @@
       ],
       "ingredientQuantity": [
         "2 fl oz",
-        ".5 fl oz",
-        ".25 fl oz",
-        ".25 fl oz",
+        "1/2 fl oz",
+        "1/4 fl oz",
+        "1/4 fl oz",
         "Splash of"
       ],
       "glass": "Highball",
@@ -4073,7 +4073,7 @@
         "Ginger Beer"
       ],
       "ingredientQuantity": [
-        "1.5 fl oz",
+        "1 1/2 fl oz",
         "1 fl oz",
         "Fill"
       ],
@@ -4100,9 +4100,9 @@
         "Fresh Watermelon Cubed"
       ],
       "ingredientQuantity": [
-        ".5 fl oz",
+        "1/2 fl oz",
         "1 fl oz",
-        "1.25 fl oz",
+        "1 1/4 fl oz",
         "5"
       ],
       "garnish": "Watermelon Slice & Mint",
@@ -4130,7 +4130,7 @@
       ],
       "ingredientQuantity": [
         "Rinse",
-        "1.5 fl oz",
+        "1 1/2 fl oz",
         "1 fl oz",
         "1 fl oz",
         "1 dash"
@@ -4158,7 +4158,7 @@
       ],
       "ingredientQuantity": [
         "2 fl oz",
-        ".5 fl oz",
+        "1/2 fl oz",
         "Fill"
       ],
       "garnish": "Lime & Mint Sprig",
@@ -4183,8 +4183,8 @@
         "Ginger Beer"
       ],
       "ingredientQuantity": [
-        "1.5 fl oz",
-        ".5 fl oz",
+        "1 1/2 fl oz",
+        "1/2 fl oz",
         "Fill"
       ],
       "garnish": "Lime Wedge",
@@ -4194,6 +4194,55 @@
         "rum",
         "sweet",
         "bubbly"
+      ]
+    },
+    {
+      "id": "caipiroska",
+      "name": "Caipiroska",
+      "url": "caipiroska.html",
+      "time": "4 minutes",
+      "difficulty": "Easy",
+      "ingredientName": [
+        "Vodka",
+        "Simple Syrup",
+        "Lime Cubes"
+      ],
+      "ingredientQuantity": [
+        "1 1/2 fl oz",
+        "1/2 fl oz",
+        "4"
+      ],
+      "glass": "Highball",
+      "preparation": "Combine lime cubes and simple syrup into cocktail shaker and muddle. Add vodka and ice into shaker and shake until ice is crushed. Pour into highball glass and serve.",
+      "categories": [
+        "vodka",
+        "sweet",
+        "sour"
+      ]
+    },
+    {
+      "id": "vodka-pineapple-punch",
+      "name": "Vodka Pineapple Punch",
+      "url": "vodka-pineapple-punch.html",
+      "time": "4 minutes",
+      "difficulty": "Easy",
+      "ingredientName": [
+        "Vodka",
+        "Pineapple Juice",
+        "Ginger Ale"
+      ],
+      "ingredientQuantity": [
+        "1 1/2 fl oz",
+        "1/2 Fill",
+        "1/2 Fill"
+      ],
+      "garnish": "Lime & Lemon Wedge",
+      "glass": "Tall",
+      "preparation": "Fill tall glass with ice add vodka. Fill glass with ginger ale and pineapple juice. Garnish and serve.",
+      "categories": [
+        "vodka",
+        "sweet",
+        "sour"
       ]
     }
   ]
