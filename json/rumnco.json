@@ -160,7 +160,7 @@
         "Bourbon",
         "Galliano",
         "Simple Syrup",
-        "Angostura Bitters"
+        "Aromatic Bitters"
       ],
       "ingredientQuantity": [
         "2 fl oz",
@@ -1853,8 +1853,8 @@
       "name": "L.S.D.",
       "url": "lsd.html",
       "image": "",
-      "time": "",
-      "difficulty": "",
+      "time": "2 minutes",
+      "difficulty": "Intermediate",
       "ingredientName": [
         "Scotch",
         "Drambuie",
@@ -2188,7 +2188,7 @@
       "ingredientName": [
         "Bourbon",
         "Sweet Vermouth",
-        "Angostura Bitters"
+        "Aromatic Bitters"
       ],
       "ingredientQuantity": [
         "2 fl oz",
@@ -2612,7 +2612,7 @@
       "url": "negroni.html",
       "image": "",
       "time": "2 minutes",
-      "difficulty": "Intermediate",
+      "difficulty": "Advanced",
       "ingredientName": [
         "Gin",
         "Sweet Vermouth",
@@ -2624,10 +2624,11 @@
         "1/2 fl oz"
       ],
       "glass": "Martini Glass",
-      "preparation": "Add ice to shaker. Combine Gin, Sweet Vermouth, and Campari. Shake and strain into glass and serve.",
+      "garnish": "Lemon Peel",
+      "preparation": "Add ice to cocktail mixing glass. Combine Gin, Sweet Vermouth, and Campari. Stir for 70 revolutions and strain into martini glass. Garnish and serve.",
       "categories": [
         "Gin",
-        "Tart",
+        "Bitter",
         "Shaken",
         "Straight Up"
       ]
@@ -3105,7 +3106,7 @@
     },
     {
       "id": "scotch-and-soda",
-      "name": "Scotch and Soda",
+      "name": "Scotch & Soda",
       "url": "scotch-and-soda.html",
       "image": "placeholder-drink-image.png",
       "time": "1 minutes",
@@ -3115,8 +3116,8 @@
         "Soda Water"
       ],
       "ingredientQuantity": [
-        "1 fl oz",
-        "4 fl oz"
+        "1 1/2 fl oz",
+        "Fill"
       ],
       "glass": "Highball glass",
       "preparation": "Add ice to glass. Combine Scotch, Soda water, and serve.",
@@ -3316,9 +3317,9 @@
       ]
     },
     {
-      "id": "slient-knight",
-      "name": "Slient Knight",
-      "url": "slient-knight.html",
+      "id": "silent-knight",
+      "name": "Silent Knight",
+      "url": "silent-knight.html",
       "image": "placeholder-drink-image.png",
       "time": "1 minute",
       "difficulty": "Easy",
@@ -3329,7 +3330,7 @@
       ],
       "ingredientQuantity": [
         "1 1/2 fl oz",
-        "1 1/2 fl oz",
+        "1/2 fl oz",
         "4 fl oz"
       ],
       "glass": "Collins",
@@ -3366,7 +3367,7 @@
     },
     {
       "id": "sloe-comfortable-screw",
-      "name": "Sloe Comfortable screw",
+      "name": "Sloe Comfortable Screw",
       "url": "sloe-comfortable-screw.html",
       "image": "placeholder-drink-image.png",
       "time": "2 minutes",
@@ -3492,7 +3493,7 @@
       "ingredientQuantity": [
         "1 fl oz",
         "4 fl oz",
-        "Float 1/2 fl oz"
+        "1/2 fl oz"
       ],
       "garnish": "Cherry",
       "glass": "Highball glass",
@@ -3661,7 +3662,7 @@
         "Southern Comfort"
       ],
       "ingredientQuantity": [
-        "1 1/2 fl oz",
+        "1 fl oz",
         "Dash of",
         "3 fl oz",
         "1/2 fl oz"
@@ -3716,17 +3717,18 @@
         "Sweet Vermouth",
         "Benedictine",
         "Peychauds Bitters",
-        "Angostura Bitters"
+        "Aromatic Bitters"
       ],
       "ingredientQuantity": [
         "3/4 fl oz",
         "3/4 fl oz",
         "3/4 fl oz",
-        "1 Tsb",
+        "2 Tsb",
         "2 Dashes",
         "2 Dashes"
       ],
       "glass": "Rocks Glass",
+      "garnish": "Lemon Peel",
       "preparation": "Add ice to rocks glass. Combine Whiskey, Cognac, Sweet Vermouth, along with everything else. Use spoon to stir until cold and serve.",
       "categories": [
         "Whiskey",
@@ -3873,7 +3875,7 @@
         "Rye whiskey",
         "Ginger Syrup",
         "Fresh Lemon Juice",
-        "Angostura Bitters",
+        "Aromatic Bitters",
         "Peychaud Bitters"
       ],
       "ingredientQuantity": [
