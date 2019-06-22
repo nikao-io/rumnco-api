@@ -813,7 +813,7 @@
       "id": "cadillac-margarita",
       "name": "Cadillac Margarita",
       "url": "cadillac-margarita.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/56a0a741-dbeb-415b-a186-29d72aac5b9f/",
       "time": "5 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -1001,7 +1001,7 @@
       "id": "corkscrew",
       "name": "Corkscrew",
       "url": "corkscrew.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/0f29db4e-b2a6-4c27-977b-507339184b5d/",
       "time": "1 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -1878,7 +1878,7 @@
       "id": "leap-frog",
       "name": "Leap Frog",
       "url": "leap-frog.html",
-      "image": "",
+      "image": "https://ucarecdn.com/19f4db77-19cc-4619-a944-d2499ee85974/",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2088,7 +2088,7 @@
       "id": "madras",
       "name": "Madras",
       "url": "madras.html",
-      "image": "",
+      "image": "https://ucarecdn.com/e884f701-4b12-4315-a37d-a196c2bc3bcd/",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2209,7 +2209,7 @@
       "id": "margarita",
       "name": "Margarita",
       "url": "margarita.html",
-      "image": "margarita.jpg",
+      "image": "https://ucarecdn.com/2a94131e-0bcf-40bc-ab26-634f031c858c/",
       "time": "5 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2316,7 +2316,7 @@
       "id": "metropolitan",
       "name": "Metropolitan",
       "url": "metropolitan.html",
-      "image": "",
+      "image": "https://ucarecdn.com/b747fb4f-3fe4-487e-965f-eada994b761d/",
       "time": "5 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -2471,7 +2471,7 @@
       "id": "mint-julep",
       "name": "Mint Julep",
       "url": "mint-julep.html",
-      "image": "",
+      "image": "https://ucarecdn.com/0028d7e4-cd57-4d0a-854b-c564c1782951/",
       "time": "5 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -2502,7 +2502,7 @@
       "id": "mojito",
       "name": "Mojito",
       "url": "mojito.html",
-      "image": "mojito.jpg",
+      "image": "https://ucarecdn.com/a319ccf6-35fe-4b69-b105-d98c2d96e76d/",
       "time": "5 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -2610,7 +2610,7 @@
       "id": "negroni",
       "name": "Negroni",
       "url": "negroni.html",
-      "image": "",
+      "image": "https://ucarecdn.com/b582e0d6-64e2-4a27-bf73-90631d0a6182/",
       "time": "2 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -2637,7 +2637,7 @@
       "id": "new-york-slammer",
       "name": "New York Slammer",
       "url": "new-york-slammer.html",
-      "image": "",
+      "image": "https://ucarecdn.com/bdf2295e-b713-4a9d-ab3f-95567be4f336/",
       "time": "1 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -2887,7 +2887,7 @@
       "id": "pink-lady",
       "name": "Pink Lady",
       "url": "pink-lady.html",
-      "image": "",
+      "image": "https://ucarecdn.com/e59583fb-449c-4f00-a6c0-f9c6ae1b12f7/",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -3027,7 +3027,7 @@
       "id": "rob-roy",
       "name": "Rob Roy",
       "url": "rob-roy.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/6e75f696-f51b-4c75-9ab6-c8def855883c/",
       "time": "1 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -3108,7 +3108,7 @@
       "id": "scotch-and-soda",
       "name": "Scotch & Soda",
       "url": "scotch-and-soda.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/b9ab7c8d-2072-4575-b87c-b25172a026da/",
       "time": "1 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -3264,7 +3264,7 @@
       "id": "side-car",
       "name": "Side Car",
       "url": "side-car.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/a2497ba2-c9d9-4868-96a2-a047d16e5cc5/",
       "time": "6 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -3320,7 +3320,7 @@
       "id": "silent-knight",
       "name": "Silent Knight",
       "url": "silent-knight.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/035005a7-41b9-47da-be37-e16c71aa8306/",
       "time": "1 minute",
       "difficulty": "Easy",
       "ingredientName": [
@@ -3369,7 +3369,7 @@
       "id": "sloe-comfortable-screw",
       "name": "Sloe Comfortable Screw",
       "url": "sloe-comfortable-screw.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/a8030fa7-1133-439e-a9be-130e38092862/",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -3482,7 +3482,7 @@
       "id": "tequila-sunrise",
       "name": "Tequila Sunrise",
       "url": "tequila-sunrise.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/9a04c4e7-0846-40d9-9b11-7d00e3ebf6f1/",
       "time": "2 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -3652,7 +3652,7 @@
       "id": "tool",
       "name": "Tool",
       "url": "tool.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/45cd2b29-ef2c-4439-89fe-9d4f31488f40/",
       "time": "1 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -3708,7 +3708,7 @@
       "id": "vieux-carre",
       "name": "Vieux Carre",
       "url": "vieux-carre.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/3f01b541-aa59-414b-b378-c35d9c8c490a/",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -4037,7 +4037,7 @@
       "id": "ward-8",
       "name": "Ward 8",
       "url": "ward-8.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/edf94a47-33d2-4908-baff-02be058690bb/",
       "time": "4 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -4055,10 +4055,10 @@
         "Splash of"
       ],
       "glass": "Highball",
-      "preparation": "Combine all ingredients into a shaker and add ice. Shake ingredients and strain into a chilled glass. Add an ice cube and a splash of sparkling water.",
+      "preparation": "Combine all ingredients except sparkling water into a shaker and add ice. Shake ingredients and strain into a chilled glass. Add an ice cube and a splash of sparkling water.",
       "categories": [
         "Whiskey",
-        "Sweet & Sour",
+        "Sweet",
         "Shaken"
       ]
     },
@@ -4202,6 +4202,7 @@
       "id": "caipiroska",
       "name": "Caipiroska",
       "url": "caipiroska.html",
+      "image": "https://ucarecdn.com/02abbbee-55af-4280-ad30-614822379cc6/"
       "time": "4 minutes",
       "difficulty": "Easy",
       "ingredientName": [
@@ -4223,9 +4224,35 @@
       ]
     },
     {
+      "id": "caipirinha",
+      "name": "Caipirinha",
+      "url": "caipirinha.html",
+      "image": "https://ucarecdn.com/4f31fbad-1ae2-4c70-86c9-056ef1337ce4/"
+      "time": "4 minutes",
+      "difficulty": "Easy",
+      "ingredientName": [
+        "Rum",
+        "Simple Syrup",
+        "Lime Cubes"
+      ],
+      "ingredientQuantity": [
+        "1 1/2 fl oz",
+        "1/2 fl oz",
+        "4"
+      ],
+      "glass": "Highball",
+      "preparation": "Combine lime cubes and simple syrup into cocktail shaker and muddle. Add rum and ice into shaker and shake until ice is crushed. Pour into highball glass and serve.",
+      "categories": [
+        "vodka",
+        "sweet",
+        "sour"
+      ]
+    },
+    {
       "id": "vodka-pineapple-punch",
       "name": "Vodka Pineapple Punch",
       "url": "vodka-pineapple-punch.html",
+      "image": "https://ucarecdn.com/24c82f4a-2404-47b0-adf4-4cb5f8c219dc/"
       "time": "4 minutes",
       "difficulty": "Easy",
       "ingredientName": [
