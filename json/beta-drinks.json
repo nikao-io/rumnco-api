@@ -1,0 +1,138 @@
+{
+  "id": "template",
+  "name": "",
+  "image": "",
+  "time": "",
+  "difficulty": "",
+  "ingredientName": [
+    "",
+  ],
+  "ingredientQuantity": [
+    "",
+  ],
+  "garnish": "",
+  "glass": "",
+  "preparation": "",
+  "strength": "",
+  "cocktail-type": "",
+  "base_spirit": [
+    ""
+  ],
+  "served": "",
+  "flavor": [
+    ""
+  ],
+  "source": ""
+},
+{
+  "id": "buffalo-soldier",
+  "name": "Buffalo Soldier",
+  "url": "buffalo-soldier.html",
+  "image": "buffalo-soldier.jpg",
+  "time": "4 minutes",
+  "difficulty": "Intermediate",
+  "ingredientName": [
+    "Zinfandel",
+    "Ginger Liqueur",
+    "Simple Syrup",
+    "Lime Juice",
+    "Orange Bitters",
+    "Club Soda"
+  ],
+  "ingredientQuantity": [
+    "2 fl oz",
+    "0.5 fl oz",
+    "0.5 fl oz",
+    "0.5 fl oz",
+    "2 dashes",
+    "Fill"
+  ],
+  "garnish": "Candied Ginger",
+  "glass": "Collins",
+  "preparation": "Add all ingredients except soda to a shaker with ice, shake and strain over ice. Top with soda water.",
+  "strength": "Light",
+  "cocktail-type": "Wine",
+  "base-spirit": [
+    "Zinfandel",
+  ],
+  "served": "On the rocks",
+  "flavor": [
+    "Bubbly/Fizzy",
+    "Refreshing"
+  ],
+  "source": "barrelageddad"
+},
+{
+  "id": "summer-sour",
+  "name": "Summer Sour",
+  "image": "summer-sour.jpg",
+  "time": "4 minutes",
+  "difficulty": "Intermediate",
+  "ingredientName": [
+    "Bourbon",
+    "Lillet Blanc",
+    "Orange Curacao",
+    "Lemon Juice",
+    "Simple Syrup",
+    "Lemon Bitters",
+    "Absinthe"
+  ],
+  "ingredientQuantity": [
+    "1.5 fl oz",
+    "1 fl oz",
+    "0.75 fl oz",
+    "0.75 fl oz",
+    "0.5 fl oz",
+    "2 Dashes",
+    "1 Dash"
+  ],
+  "garnish": "Mint Sprig",
+  "glass": "Doubles Rocks Glass",
+  "preparation": "Add all ingredients to a shaking tin and then add ice. Shake well and strain over ice into a double rocks glass. Garnish with a sprig of mint.",
+  "strength": "Medium",
+  "cocktail-type": "Modified Classic",
+  "base-spirit": [
+    "Bourbon",
+  ],
+  "served": "On the rocks",
+  "flavor": [
+    "Sweet & Sour"
+  ],
+  "source": "theweekendmixologist"
+},
+{
+  "id": "rum-cooler",
+  "name": "Rum Cooler",
+  "image": "rum-cooler.jpg",
+  "time": "4 minutes",
+  "difficulty": "Intermediate",
+  "ingredientName": [
+    "White Rum",
+    "Grenadine",
+    "Lime Juice",
+    "Guava Juice",
+    "Club Soda"
+  ],
+  "ingredientQuantity": [
+    "1.5 fl oz",
+    "0.5 fl oz",
+    "1 fl oz",
+    "2 fl oz",
+    "Fill"
+  ],
+  "garnish": "Flower Petal",
+  "glass": "Highball",
+  "preparation": "Add all ingredients except soda to a shaking tin and then add ice. Shake well and strain over ice into a highball glass. Top with club soda and garnish.",
+  "strength": "Medium",
+  "cocktail-type": "Alcopop",
+  "base-spirit": [
+    "White Rum",
+  ],
+  "served": "On the rocks",
+  "flavor": [
+    "Bubbly/Fizzy",
+    "Refreshing",
+    "Sweet"
+  ],
+  "source": "theweekendmixologist"
+}
