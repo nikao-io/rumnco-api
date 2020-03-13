@@ -220,7 +220,7 @@
       "id": "adonis",
       "name": "Adonis",
       "url": "adonis.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/bbd42f2f-d86f-4630-b1da-c8bab32e3935/",
       "time": "2 minutes",
       "difficulty": "Intermediate",
       "ingredientName": [
@@ -1558,7 +1558,7 @@
       "id": "hurricane",
       "name": "Hurricane",
       "url": "hurricane.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/99443016-ef0d-470d-aadd-c5c3735b9e00/",
       "time": "4 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -1692,7 +1692,7 @@
       "id": "john-daly",
       "name": "John Daly",
       "url": "john-daly.html",
-      "image": "placeholder-drink-image.png",
+      "image": "https://ucarecdn.com/d6aaae4b-7426-4522-9224-c9c5860d733e/",
       "time": "1 minute",
       "difficulty": "Easy",
       "ingredientName": [
@@ -1929,7 +1929,7 @@
       "id": "lemon-drop-martini",
       "name": "Lemon Drop Martini",
       "url": "lemon-drop-martini.html",
-      "image": "",
+      "image": "https://ucarecdn.com/4a071dd6-a40f-455a-883a-f6e943255414/",
       "time": "5 minutes",
       "difficulty": "Expert",
       "ingredientName": [
@@ -2114,7 +2114,7 @@
       "id": "mai-tai",
       "name": "Mai Tai",
       "url": "mai-tai.html",
-      "image": "",
+      "image": "https://ucarecdn.com/92448883-99da-4152-99ed-5e61e1cc3e58/",
       "time": "3 minutes",
       "difficulty": "Advanced",
       "ingredientName": [
@@ -3290,7 +3290,7 @@
     {
       "id": "singapore-sling",
       "name": "Singapore Sling",
-      "url": "singapore-sling.html",
+      "url": "https://ucarecdn.com/6903e87e-1e6e-488c-abca-fd47847a4c63/",
       "image": "placeholder-drink-image.png",
       "time": "2 minute",
       "difficulty": "Intermediate",
