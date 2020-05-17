@@ -84,6 +84,58 @@
   ],
   "cocktails": [
     {
+      "id": "finnish-lonkero",
+      "name": "Finnish Lonkero (Long Drink)",
+      "url": "finnish-lonkero.html",
+      "image": "placeholder-drink-image.png",
+      "time": "3 minutes",
+      "difficulty": "Medium",
+      "ingredientName": [
+        "Sweet and sour",
+        "Gin",
+        "Grapefruit juice",
+        "Simple syrup",
+        "Club Soda"
+      ],
+      "ingredientQuantity": [
+        "1 fl oz",
+        "1.5 fl oz",
+        ".75 fl oz",
+        ".25 fl oz",
+        "Fill"
+      ],
+      "glass": "Tall",
+      "garnish": "Lime Wheel",
+      "preparation": "",
+      "categories": [
+        "Gin"
+      ]
+    },
+    {
+      "id": "paloma",
+      "name": "Paloma",
+      "url": "paloma.html",
+      "image": "placeholder-drink-image.png",
+      "time": "3 minutes",
+      "difficulty": "Medium",
+      "ingredientName": [
+        "Tequila Blanco",
+        "Lime Juice",
+        "Grapefruit soda"
+      ],
+      "ingredientQuantity": [
+        "2 fl oz",
+        ".5 fl oz",
+        "Fill"
+      ],
+      "glass": "Tall",
+      "garnish": "Lime Wheel",
+      "preparation": "",
+      "categories": [
+        "Tequila Blanco"
+      ]
+    },
+    {
       "id": "aztec",
       "name": "Aztec",
       "url": "aztec.html",
