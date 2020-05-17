@@ -67,9 +67,203 @@
         "grapefruit-and-rosemary-mimosa",
         "mimosa"
       ]
+    },
+    {
+      "id": "halloween-cocktails",
+      "name": "Halloween Cocktails",
+      "image": "",
+      "description": "",
+      "drinks": [
+        "sweet-poison",
+        "good-and-evil",
+        "red-mist",
+        "sleepy-hollow",
+        "shape-shifter"
+      ]
     }
   ],
   "cocktails": [
+    {
+      "id": "aztec",
+      "name": "Aztec",
+      "url": "aztec.html",
+      "image": "placeholder-drink-image.png",
+      "time": "3 minutes",
+      "difficulty": "Medium",
+      "ingredientName": [
+        "Tequila Anejo",
+        "Lime Juice",
+        "Simple Syrup",
+        "Chocolate bitters"
+      ],
+      "ingredientQuantity": [
+        "2 fl oz",
+        ".75 fl oz",
+        ".75 fl oz",
+        "3 Dashes"
+      ],
+      "glass": "Coupe",
+      "preparation": "",
+      "categories": [
+        "Tequila Anejo"
+      ]
+    },
+    {
+      "id": "shape-shifter",
+      "name": "Shape Shifter",
+      "url": "shape-shifter.html",
+      "image": "placeholder-drink-image.png",
+      "time": "3 minutes",
+      "difficulty": "Medium",
+      "ingredientName": [
+        "Gin",
+        "Ginger Liqueur",
+        "Simple Syrup",
+        "B’lure",
+        "Lemon Jucie"
+      ],
+      "ingredientQuantity": [
+        "1.5 fl oz",
+        ".75 fl oz",
+        ".5 fl oz",
+        "1 Dropper",
+        ".75 fl oz"
+      ],
+      "glass": "Coupe",
+      "preparation": "",
+      "categories": [
+        "Gin"
+      ]
+    },
+    {
+      "id": "sleepy-hollow",
+      "name": "Sleepy Hollow",
+      "url": "sleepy-hollow.html",
+      "image": "placeholder-drink-image.png",
+      "time": "3 minutes",
+      "difficulty": "Medium",
+      "ingredientName": [
+        "Whiskey",
+        "Drambuie",
+        "Absinthe",
+        "Bitters"
+      ],
+      "ingredientQuantity": [
+        "2 fl oz",
+        ".5 fl oz",
+        ".25 fl oz",
+        "2 Dashes"
+      ],
+      "glass": "Rocks",
+      "preparation": "",
+      "categories": [
+        "Whiskey"
+      ]
+    },
+    {
+      "id": "red-mist",
+      "name": "Red Mist",
+      "url": "red-mist.html",
+      "image": "placeholder-drink-image.png",
+      "time": "3 minutes",
+      "difficulty": "Medium",
+      "ingredientName": [
+        "Vodka",
+        "Red Viniq",
+        "Lemon Juice"
+      ],
+      "ingredientQuantity": [
+        "2 fl oz",
+        "1 fl oz",
+        "1 fl oz"
+      ],
+      "glass": "Martini",
+      "preparation": "",
+      "categories": [
+        "Vodka"
+      ]
+    },
+    {
+      "id": "good-and-evil",
+      "name": "Good & Evil",
+      "url": "good-and-evil.html",
+      "image": "placeholder-drink-image.png",
+      "time": "3 minutes",
+      "difficulty": "Medium",
+      "ingredientName": [
+        "Vodka",
+        "Triple Sec",
+        "Sour Apple",
+        "Midori",
+        "Sprite & Pineapple"
+      ],
+      "ingredientQuantity": [
+        ".5 fl oz",
+        ".5 fl oz",
+        ".5 fl oz",
+        ".5 fl oz",
+        "Fill"
+      ],
+      "glass": "Globlet",
+      "garnish": "Cherries",
+      "preparation": "",
+      "categories": [
+        "Vodka"
+      ]
+    },
+    {
+      "id": "sweet-poison",
+      "name": "Sweet Poison",
+      "url": "sweet-poison.html",
+      "image": "placeholder-drink-image.png",
+      "time": "3 minutes",
+      "difficulty": "Medium",
+      "ingredientName": [
+        "Coconut Rum",
+        "Light Rum",
+        "Blue Curaçao",
+        "Pineapple Juice"
+      ],
+      "ingredientQuantity": [
+        "1 fl oz",
+        "1 fl oz",
+        ".5 fl oz",
+        "Fill"
+      ],
+      "glass": "Globlet",
+      "garnish": "Lemon Wedge",
+      "preparation": "",
+      "categories": [
+        "Coconut Rum"
+      ]
+    },
+    {
+      "id": "bourbon-sour",
+      "name": "Bourbon Sour",
+      "url": "bourbon-sour.html",
+      "image": "placeholder-drink-image.png",
+      "time": "3 minutes",
+      "difficulty": "Medium",
+      "ingredientName": [
+        "Bourbon",
+        "Sugar",
+        "Lemon Jucie",
+        "Orange Juice"
+      ],
+      "ingredientQuantity": [
+        "1.5 fl oz",
+        ".75 fl oz",
+        ".5 fl oz",
+        ".5 fl oz"
+      ],
+      "glass": "Highball glass",
+      "preparation": "",
+      "categories": [
+        "Bourbon",
+        "Refreshing",
+        "Shaken"
+      ]
+    },
     {
       "id": "7-and-7",
       "name": "7 & 7",
