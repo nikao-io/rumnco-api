@@ -2452,12 +2452,12 @@
       ]
     },
     {
-      "id": "margarita",
-      "name": "Margarita",
-      "url": "margarita.html",
+      "id": "modern-margarita",
+      "name": "Modern Margarita",
+      "url": "modern-margarita.html",
       "image": "https://ucarecdn.com/2a94131e-0bcf-40bc-ab26-634f031c858c/",
-      "time": "5 minutes",
-      "difficulty": "Intermediate",
+      "time": "2 minutes",
+      "difficulty": "Easy",
       "ingredientName": [
         "Tequila",
         "Triple Sec",
@@ -2473,6 +2473,62 @@
       "garnish": "Lime Wedge/ Salt Rim",
       "glass": "Tall Glass",
       "preparation": "Rub a Lime wedge along the rim of glass to add salt. Add ice to glass. Combine Tequila, Triple Sec, Lime Juice, and Sweet and Sour Mix. Garnish with lime wedge and serve.",
+      "categories": [
+        "Tequila",
+        "Sweet & Sour",
+        "Sharp"
+      ]
+    },
+    {
+      "id": "margarita",
+      "name": "Margarita",
+      "url": "margarita.html",
+      "image": "https://ucarecdn.com/2a94131e-0bcf-40bc-ab26-634f031c858c/",
+      "time": "2 minutes",
+      "difficulty": "Intermediate",
+      "ingredientName": [
+        "Tequila",
+        "Lime Juice",
+        "Triple Sec",
+        "Orange Juice",
+        "Agave"
+      ],
+      "ingredientQuantity": [
+        "1.5 fl oz",
+        "1 fl oz",
+        ".5 fl oz",
+        ".5 fl oz",
+        ".5 fl oz"
+      ],
+      "garnish": "Lime Wedge/ Salt Rim",
+      "glass": "Highball Glass",
+      "preparation": "Rub a Lime wedge along the rim of glass to add salt. Combine Tequila, Triple Sec, lime juice, orange juice, and agave into cocktail shaker with ice. Shake until slightly frosted over and strain into highball glass. Garnish with lime wedge and serve.",
+      "categories": [
+        "Tequila",
+        "Sweet & Sour",
+        "Sharp"
+      ]
+    },
+    {
+      "id": "tommys-margarita",
+      "name": "Tommy's Margarita",
+      "url": "tommys-margarita.html",
+      "image": "https://ucarecdn.com/2a94131e-0bcf-40bc-ab26-634f031c858c/",
+      "time": "2 minutes",
+      "difficulty": "Intermediate",
+      "ingredientName": [
+        "Tequila",
+        "Lime Juice",
+        "Agave"
+      ],
+      "ingredientQuantity": [
+        "2 fl oz",
+        "1 fl oz",
+        ".5 fl oz"
+      ],
+      "garnish": "Lime Wedge/ Salt Rim",
+      "glass": "Rocks Glass",
+      "preparation": "Rub a Lime wedge along the rim of glass to add salt. Combine Tequila, lime juice, and agave into cocktail shaker with ice. Shake until slightly frosted over and strain into rocks glass. Garnish with lime wedge and serve.",
       "categories": [
         "Tequila",
         "Sweet & Sour",
